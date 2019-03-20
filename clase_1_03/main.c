@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+int pedirSumar(void);
 int main()
 {
     pedirSumar();
