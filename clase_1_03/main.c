@@ -8,7 +8,7 @@ int main()
 
 }
 
-int pedirSumar()
+int pedirSumar(void)
 {
     int valorA;
     int valorB;
